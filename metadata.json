@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix PRISM ENGINE - Multi-Dimensional STEAM Career Guidance",
+  "description": "Multi-dimensional STEAM career guidance and student SWOT analytics engine balancing Student, Family, and Market vectors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
